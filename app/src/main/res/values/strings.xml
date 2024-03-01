@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Comics</string>
+    <string name="message_loaded_from_database">Carregado do banco de dados</string>
+</resources>
