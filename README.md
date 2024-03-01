@@ -1,1 +1,4 @@
-# comics
+# Comics APP
+
+project architecture: MVI
+
